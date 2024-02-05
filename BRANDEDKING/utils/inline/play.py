@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/PAWAN_IS_BACK",
+                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/smart_hu",
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/IND_PAWAN",
@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://t.me/smart_hu",
+                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://t.me/mr_editx",
             ),
             InlineKeyboardButton(
                 text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ANGEL_K_WORLD",
@@ -98,7 +98,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/PAWAN_IS_BACK",
+                text="❤️‍🔥 ᴋɪɴɢ", url="https://t.me/smart_hu",
             ),
             InlineKeyboardButton(
                 text="sᴜᴘᴘᴏʀᴛ 💌", url="https://t.me/IND_PAWAN",
@@ -106,7 +106,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://t.me/smart_hu",
+                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://t.me/mr_editx",
             ),
             InlineKeyboardButton(
                 text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/ANGEL_K_WORLD",
