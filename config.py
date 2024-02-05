@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "MERA_X_PYAR_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "LOVER_X_MUSIC_BOT")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "Sonaa music")
@@ -38,7 +38,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/code663/sona",
+    "https://github.com/code663/nobita",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
